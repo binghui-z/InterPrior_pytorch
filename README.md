@@ -2,7 +2,7 @@
 Official repository for the paper: [Reconstructing Interacting Hands with Interaction Prior from Monocular Images](https://arxiv.org/abs/2308.14082)
 
 <div align=center>
-<img src="assets/pipeline.png" width="960">
+<img src="assets/pipeline.png" width="720">
 </div>
 
 ## News!
