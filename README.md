@@ -1,6 +1,10 @@
 # InterPrior
 Official repository for the paper: [Reconstructing Interacting Hands with Interaction Prior from Monocular Images](https://arxiv.org/abs/2308.14082)
 
+<div align=center>
+<img src="assets/pipeline.png" width="480">
+</div>
+
 ## News!
 - We create our [webpage](https://www.yangangwang.com/papers/iccv2023_interprior/BinghuiZuo-ICCV2023_InterPrior.html), more details can be found from there.
 
